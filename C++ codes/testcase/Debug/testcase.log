@@ -1,0 +1,4 @@
+﻿  源.cpp
+D:\杨庚辰\大学\Ve280\C++ codes\testcase\源.cpp(1): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+D:\杨庚辰\大学\Ve280\C++ codes\testcase\源.cpp(6): warning C4101: “y”: 未引用的局部变量
+  testcase.vcxproj -> D:\杨庚辰\大学\Ve280\C++ codes\testcase\Debug\testcase.exe
