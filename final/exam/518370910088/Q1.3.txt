@@ -1,0 +1,1 @@
+Yes, it is a subtype of A. Because it satisfy the substitution rule, and wherever we need to use A, we can always use B since everything in A is inherited to B.

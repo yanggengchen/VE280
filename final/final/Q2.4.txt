@@ -1,0 +1,1 @@
+it is a const iterator, we can't change the value of the element indicated by it. *it = count is incorrect.

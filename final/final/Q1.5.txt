@@ -1,0 +1,1 @@
+dccc0. Since it first call the constructor in "A a;", and in "a.f(a);", it first makes a copy of a to give to function f, then calls a.f().

@@ -1,0 +1,1 @@
+bar is a derived class from foo. We can use bar where we need a foo, but the other way around is incorrect. Hence bar *pb = &x is incorrect.

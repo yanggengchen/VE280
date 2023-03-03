@@ -1,0 +1,1 @@
+Though bar in public inherited from foo, it can not access elements a and b that are private in foo.

@@ -1,0 +1,1 @@
+vector<double> operator - (const vector<double> &sub_num);

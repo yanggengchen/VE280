@@ -1,0 +1,1 @@
+list is implemented through linked list while vector uses array. We can't use iterators of list to initialize a vector.

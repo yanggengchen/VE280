@@ -1,0 +1,1 @@
+At-most-once invariant. Since ip is both inserted to l1 and l2, it's not linked to at most one container.

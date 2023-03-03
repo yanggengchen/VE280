@@ -1,0 +1,1 @@
+default arguments must be placed at the back. int d should be before int b = 0;

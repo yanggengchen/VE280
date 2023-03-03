@@ -1,0 +1,1 @@
+Because almost all the imformation in "keys" are shown to the user through public methods. ADT's inforamtion hiding advantage is not fully taken use of.

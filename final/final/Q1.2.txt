@@ -1,0 +1,1 @@
+We can create an "interface-only" class by using the virtual method. Then we can derive subclasses from it and obtain the effect of hiding information.

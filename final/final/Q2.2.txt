@@ -1,0 +1,1 @@
+There is no virtual methods in A, hence dynamic_cast pa to B* will lead to complie errors.

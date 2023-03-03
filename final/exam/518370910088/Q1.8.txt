@@ -1,0 +1,1 @@
+O(1). Since we need to go through the whole list, from the first element to the last element.

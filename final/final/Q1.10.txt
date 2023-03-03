@@ -1,0 +1,2 @@
+Suppose all relevant header files are included.
+vector<map<string, int> > lm;
